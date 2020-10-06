@@ -11,4 +11,4 @@ Hello. I'm a 2nd year MURP student at UCLA, focused on Design and Housing. I als
 - Mapping things related to rent
 
 ### Objectives ### 
-Ultimately, I'm interested in working on tools for Urban Planners and hope this class will get me one step closer to being able to build something out myself.
+Ultimately, I'm interested in working on tools for Urban Planners and hope this class will get me one step closer to being able to build something out myself.I am also going to be working on a capstone project for SCAG that will include some mapping I think so I'd like to get comfortable with it before diving into that.
