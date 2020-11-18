@@ -1,0 +1,8 @@
+# Global trends toward urban street-network sprawl
+https://www.pnas.org/content/pnas/117/4/1941.full.pdf
+
+While the data analysis of the street networks is interesting, what immediately caught my attention was the mention of Bangkok, Thailand and Florianópolis, Brazil as two examples of some of the highest levels of sprawl. I am very curious to see the maps and data for both of those cities because I have been to both and wonder how well the data lines up with people's lived experiences in those cities. I would agree that Bangkok has a very car-centric culture but the pedestrian experience is also quite rich as well, often with many small connecting streets. I'd agree the gated communities for the higher-income in Bangkok is also definitely a thing too. I would just love to get more details about this analysis on Bangkok beyond the SNDi scores. Similarly, the mention of Florianópolis caught my attention because I wondered how the terrain of the island might be a factor in the way the street network is developing. In the downtown city center the land is quite flat and the old streets are actually quite connected and pedestrian friendly. As you leave that area, the main road is essentially a giant loop around the island with branching fishbone roads coming off of it in various places, going down to the ocean or up to the hills and mountains. I wonder about the data model's ability to incorporate information about geography/topography in the analysis as well. From what I can tell it looks like it is only considering the street plane from a "flattened" perspective.
+
+## Questions
+1. Did you supplement any of this quantitative data analysis with any qualitative research? 
+2. How does topography factor into the analsysis? 
